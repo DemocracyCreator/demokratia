@@ -1,3 +1,0 @@
-- name: Dart Analyze
-  uses: ValentinVignal/action-dart-analyze@v0.11
-  fail-on: format
